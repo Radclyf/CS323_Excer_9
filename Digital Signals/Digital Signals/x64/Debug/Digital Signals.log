@@ -1,0 +1,22 @@
+﻿  Digital Signals.cpp
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(126,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(135,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(147,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(147,60): warning C4244:         with
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(147,60): warning C4244:         [
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(147,60): warning C4244:             T=float
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(147,60): warning C4244:         ]
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(148,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(148,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(153,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(153,68): warning C4244:         with
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(153,68): warning C4244:         [
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(153,68): warning C4244:             T=float
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(153,68): warning C4244:         ]
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(154,53): warning C4244: 'argument': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(154,53): warning C4244:         with
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(154,53): warning C4244:         [
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(154,53): warning C4244:             _Ty=int
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(154,53): warning C4244:         ]
+C:\Users\shank\SFML projects\Digital Signals\Digital Signals\Digital Signals.cpp(154,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Digital Signals.vcxproj -> C:\Users\shank\SFML projects\Digital Signals\x64\Debug\Digital Signals.exe
